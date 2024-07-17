@@ -1,0 +1,4 @@
+[settings]
+
+[[proxy]]
+path = "src/crash_proxy.rs"

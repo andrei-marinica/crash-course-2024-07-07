@@ -1,0 +1,4 @@
+[settings]
+
+[[proxy]]
+path = "src/caller_proxy.rs"

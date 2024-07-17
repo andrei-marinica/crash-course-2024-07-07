@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "crash-sc",
+    "crash-sc/meta",
+    "caller-sc",
+    "caller-sc/meta",
+    "interact",
+]
